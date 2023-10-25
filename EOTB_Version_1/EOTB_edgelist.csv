@@ -1,0 +1,13 @@
+from,to,weight
+Paulina,Yasin,1
+Yasin,Carina,3
+Yasin,Alicia,2
+Paulina,Carina,1
+Yasin,Paco,2
+Paco,Alicia,3
+Carina,Sasa,1
+Sasa,Vanessa,1
+Carina,Vanessa,1
+Vanessa,Marwin,2
+Marwin,Paulina,3
+Paulina,Wolf,2
